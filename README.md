@@ -1,4 +1,4 @@
-# Jogo da Velha
+# Jogo da velha com histórico de jogadas
 
 Tecnologias:
 <p>
@@ -15,3 +15,6 @@ Execução do projeto:
 
 <br>
 
+<div align='center'>
+  <img src='tela.gif'>
+</div>
